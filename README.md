@@ -4,7 +4,7 @@
 
 * **Équipe de développeurs :** [Gatien Depeyre](https://github.com/Gatien-Depeyre), [Mélanie Fressard](https://github.com/melanie-fressard), [Bastien Gavioli](https://github.com/BastienGavioli), [Enzo Viguier](https://github.com/enzo-viguier)
 
-* **Aller sur le site Web** *[Dracovente](http://www.alexis.temperamentcordier.org/Gatien/projetSiteWeb/index.html)*
+* **Aller sur le site Web** *[Dracovente](https://bastiengavioli.github.io/dracovente/)*
 * **Cadre :** Soutenance de projet tutoré en fin de semestre 1
 * **Date de rendu du projet :** 12 janvier 2021
 
